@@ -11,6 +11,15 @@ OpenSCADで時計の文字盤作成
 ![](img/clock_001_01.jpg)
 ![](img/clock_001_04.png)
 
+## CLOCK 002
+
+- clock_002 (文字盤)
+- clock_swingbar (振り子のバー)
+- clock_002_swing (振り子オーナメント）
+
+![](img/clock_002_01.jpg)
+![](img/clock_002_02.jpg)
+
 
 ## 投げ銭
 
